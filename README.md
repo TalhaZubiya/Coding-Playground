@@ -2,74 +2,98 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/CODING-PLAYGROUND-6C63FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/STATUS-LEARNING-00C896?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FOCUS-PROGRAMMING-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00C896?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TYPE-PERSONAL%20WORKSPACE-FF6B6B?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <i>A personal space to learn, practice, experiment, and build.</i>
+  <b>Learn. Practice. Experiment. Build.</b>
+</p>
+
+<p align="center">
+  A personal coding workspace for learning, testing ideas, solving problems, and building small projects.
 </p>
 
 <br>
 
 ## About
 
-Coding Playground is my personal learning space where I practice programming, explore new concepts, solve problems, and experiment with small ideas.
+Coding Playground is my personal space for hands-on programming practice.
 
-This repository is mainly focused on learning through hands-on coding and gradually improving my programming skills.
+Instead of keeping learning limited to tutorials and theory, I use this repository to write code, test different approaches, solve problems, experiment with ideas, and turn concepts into working programs.
 
-<br>
-
-## What I'm Learning
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Problem_Solving-FFB703?style=for-the-badge&logo=thealgorithms&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-8E44AD?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Algorithms-2EC4B6?style=for-the-badge" />
-</p>
+It is an evolving workspace that grows alongside my programming journey.
 
 <br>
 
-## Learning Philosophy
+## Inside This Playground
 
-<p align="center">
-
-**Learn** → **Practice** → **Experiment** → **Build** → **Improve**
-
-</p>
-
-I believe that consistent practice and building small things are the best ways to turn knowledge into real skills.
-
-<br>
-
-## Current Focus
-
-| Area | Focus |
+| Section | Purpose |
 |---|---|
-| Programming | Building strong fundamentals |
-| Problem Solving | Improving logical thinking |
-| Automation | Writing practical scripts |
-| Projects | Turning ideas into working solutions |
+| Practice | Small programs and coding exercises |
+| Experiments | Testing concepts, techniques, and ideas |
+| Problem Solving | Logic-building and algorithmic practice |
+| Scripts | Small utilities and practical automation |
+| Projects | Mini projects built while learning |
+| Notes | Useful references and learning resources |
+
+<br>
+
+## My Approach
+
+<p align="center">
+  <b>Understand</b>
+  &nbsp;→&nbsp;
+  <b>Code</b>
+  &nbsp;→&nbsp;
+  <b>Test</b>
+  &nbsp;→&nbsp;
+  <b>Break</b>
+  &nbsp;→&nbsp;
+  <b>Fix</b>
+  &nbsp;→&nbsp;
+  <b>Improve</b>
+</p>
+
+I believe real improvement comes from writing code regularly, making mistakes, understanding why they happen, and trying again.
 
 <br>
 
 ## Progress
 
-This repository will grow with my learning journey.
+This repository is intentionally a work in progress.
 
-I will keep adding practice code, experiments, useful scripts, and small projects as I learn and improve.
-
-<br>
-
-## Goal
-
-> Learn consistently.  
-> Build patiently.  
-> Improve every day.
+New practice codes, experiments, scripts, solutions, and small projects will be added over time as I continue learning.
 
 <br>
 
-<p align="center">
-  <b>One line of code at a time.</b>
-</p>
+## Purpose
+
+The goal of this repository is simple:
+
+- Strengthen programming fundamentals
+- Improve problem-solving ability
+- Practice writing clean and understandable code
+- Experiment without worrying about perfection
+- Build a consistent coding habit
+- Track progress through actual work
+
+<br>
+
+## Learning Journey
+
+```text
+Learn
+  ↓
+Practice
+  ↓
+Experiment
+  ↓
+Build
+  ↓
+Improve
+  ↓
+Repeat
+
+<br> <p align="center"> <b>Every experiment is a step forward.</b> </p>
+```
