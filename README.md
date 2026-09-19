@@ -94,6 +94,7 @@ Build
 Improve
   ↓
 Repeat
+```
 
 <br> <p align="center"> <b>Every experiment is a step forward.</b> </p>
-```
+
