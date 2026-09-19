@@ -1,22 +1,43 @@
 # Coding Playground
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Learning-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Programming-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Repository-Private-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Learning-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Programming-purple?style=for-the-badge">
 </p>
 
 <p align="center">
-  A personal coding workspace for learning, practicing, experimenting, and building.
+  A personal space for learning, practicing, experimenting, and building with code.
+</p>
+
+---
+
+<p align="center">
+  <pre>
+                 ● ● ● ● ● ● ●
+                           ●
+                           ●
+                           ●
+                           ● ● ● ● ● ● ● ●
+                                         ●
+                                         ●
+                                         ● ● ● ● ● ●
+                                                   ●
+                                                   ●
+                                                   ● ● ● ● ● ● ● ● ●
+  </pre>
+</p>
+
+<p align="center">
+  <b>Keep Coding • Keep Learning • Keep Building</b>
 </p>
 
 ---
 
 ## About
 
-`Coding-Playground` is my personal space for learning programming through practice.
+This is my personal coding playground where I learn programming through practice, experiments, problem solving, and small projects.
 
-This repository contains coding exercises, experiments, problem-solving practice, automation scripts, and small projects created while learning and improving my programming skills.
+The main goal is simple: learn something new, write code, make mistakes, improve, and keep moving forward.
 
 ---
 
@@ -31,23 +52,11 @@ This repository contains coding exercises, experiments, problem-solving practice
 
 ---
 
-## Repository Structure
+## Learning Journey
 
-Coding-Playground/
-├── Basics/
-├── Practice/
-├── Problem-Solving/
-├── Automation/
-├── Projects/
-└── README.md
-
-The structure may change as I continue learning and exploring new topics.
-
----
-
-## Learning Approach
-
-Learn → Practice → Experiment → Build → Improve
+<p align="center">
+  <b>Learn → Practice → Experiment → Build → Improve</b>
+</p>
 
 I believe consistent practice and building small things are the best ways to improve programming skills.
 
@@ -55,25 +64,9 @@ I believe consistent practice and building small things are the best ways to imp
 
 ## Progress
 
-This repository will grow along with my programming journey.
+This repository will grow with my programming journey.
 
-New practice problems, experiments, scripts, and projects will be added as I continue learning.
-
----
-
-## Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TalhaZubiya/Coding-Playground/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
-## Note
-
-This is a personal learning repository.
-
-The code may include practice solutions, experiments, unfinished implementations, and learning exercises.
+New practice code, experiments, scripts, and projects will be added as I continue learning.
 
 ---
 
